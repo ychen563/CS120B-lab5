@@ -1,9 +1,9 @@
 /*	Author: ychen563
- *  Partner(s) Name: 
- *	Lab Section:
- *	Assignment: Lab #  Exercise #
- *	Exercise Description: [optional - include for your own benefit]
- *
+ *	Lab Section: 024
+ *	Assignment: Lab #5  Exercise #3
+ *	Exercise Description: The device produce a sequence of led outputs that the lights move gradually to the center.
+ *	Demo link: https://drive.google.com/file/d/1jdwJ7Nh2eRWbCoSvhkxMPiyz5Tz6o7bq/view?usp=sharing
+ *	
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
  */
