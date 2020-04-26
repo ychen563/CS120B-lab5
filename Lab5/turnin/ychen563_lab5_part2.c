@@ -18,7 +18,7 @@ void Tick(){
     unsigned char tmpA = ~PINA & 0x03;
     switch(state){//Transitions
         case Start:
-            cnt = 0x07;
+            cnt = 0x00;
             state = Wait;
             break;
         case Wait:
